@@ -1,0 +1,15 @@
+#Software Requirement:
+			1. JDK.
+			2. WINDOWS COMMAND LINE / LINUX TERMINAL / OR ANY IDE(NETBEANS).
+
+#How to run:
+		1. IN LINUX:
+			a). Open Terminal(Press Ctrl+Alt+T).
+			b). Open directory which consists Sheep Herded java files.
+			c). Now Compile Call.java file. For this, Run Command i.e. cmd:> "javac Call.java" and press enter.
+			d). Now Execute Call.class file. For this, Run Command i.e. cmd:> "java Call" and press enter.
+			 
+		2. IN WINDOWS:
+			a). Open Command Promt(Search for it.).
+				--Rest steps are same as Linux steps--
+ 
